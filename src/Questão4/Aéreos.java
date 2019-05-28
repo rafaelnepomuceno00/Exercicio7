@@ -3,12 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exercicio7;
+package Questão4;
 
-/**
- *
- * @author ifnmg
- */
-public class Fornecedor {
-    
+public class Aéreos  extends Transportes{
+    public Aéreos(double c){
+    super(c);      
+    }
 }
